@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Sun, Moon } from 'lucide-react';
 import { Button } from './ui/button';
-import logoPlaceholder from 'figma:asset/43accade86d1c34aa2c4d943b1a896780588cc2a.png';
+import logoPlaceholder from '../../assets/43accade86d1c34aa2c4d943b1a896780588cc2a.png';
 
 interface NavigationProps {
   currentPage: string;

@@ -1,5 +1,5 @@
 import { Instagram } from 'lucide-react';
-import logoPlaceholder from 'figma:asset/43accade86d1c34aa2c4d943b1a896780588cc2a.png';
+import logoPlaceholder from '../../assets/43accade86d1c34aa2c4d943b1a896780588cc2a.png';
 
 interface FooterProps {
   onNavigate: (page: string) => void;
